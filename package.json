@@ -1,0 +1,8 @@
+{
+  "name": "derb-league-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "موقع دوري درب المستقل",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
